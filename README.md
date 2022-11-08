@@ -1,4 +1,6 @@
-# title(){return this.options.title||this.options.name}
+# Visit Sacramento Starter Website
+
+A little intro to Sacramento website based on a project from Scrimba's FrontEnd Developer Career Path!
 
 ## Supporting Scrimba
 
