@@ -11,7 +11,7 @@ img {
     border-radius: 25%;
 }
 
-.hero {
+#hero {
     background-image: url("https://images.unsplash.com/photo-1606188476246-9787d837a85e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2071&q=80");
     background-size: cover;
     display: flex;
@@ -21,14 +21,14 @@ img {
     height: 500px;
 }
 
-.hero > h1 {
+#hero > h1 {
     width: 700px;
     background: linear-gradient(6deg, rgb(72, 162, 153) 0%, rgb(249, 221, 9) 96%);
     border-radius: 10px;
     font-size: 60px;
 }
 
-.hero > h2 {
+#hero > h2 {
     width: 400px;
     background: linear-gradient(6deg, rgb(72, 162, 153) 0%, rgb(249, 221, 9) 96%);
     border-radius: 10px;
@@ -52,7 +52,7 @@ img {
     margin: 5px;
 }
 
-.guide {
+#guide {
     width: 600px;
     margin: 20px auto;
     padding: 20px;
